@@ -6,7 +6,7 @@ export default function Cards({cities}) {
   // acá va tu código
   // tip, podés usar un map
   return (
-    <div className={style.component}>
+    <div className={style.cards}>
       {
         cities.map((city) => (
            <Card 

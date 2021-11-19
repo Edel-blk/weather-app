@@ -1,0 +1,8 @@
+.cardTemp{
+    display: flex;
+    flex-direction: column;
+}
+
+.cardTemp > span {
+    font-weight: 500;
+}
