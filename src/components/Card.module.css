@@ -1,0 +1,39 @@
+.component{
+    margin-top: 20px;
+    border-radius: 16px;
+    width: 300px;
+    background-color: #5f6872;
+    box-shadow: rgb(0 0 0 / 25%) 0px 4px 4px;
+    padding: 0.5rem;
+    
+}
+
+.component:hover{
+    background-color: #7f8892;
+    box-shadow: rgb(0 0 0 / 50%) 0px 4px 4px;
+}
+
+.btn{
+    font-size: 30px;
+    margin-left: 220px;
+    margin-top: 8px;
+    border: none;
+    outline: none;
+    background-color:#5f6872;
+    color:floralwhite;
+    border-radius: 25px;
+}
+
+.btn:hover{
+    color:rgb(248, 51, 51);
+}
+
+.content{
+    color: white;
+}
+
+.temp{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around
+}
